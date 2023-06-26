@@ -1,60 +1,60 @@
 {
   "ref_country_codes" : [
 {
-      "country" : "Albania",
-      "alpha2" : "AL",
-      "alpha3" : "ALB",
-      "numeric" : 8,
-      "latitude" : 41,
-      "longitude" : 20
+      "country" : "Ontario",
+      "alpha2" : "Danieli Canada",
+      "alpha3" : "Danieli",
+      "numeric" : 275,
+      "latitude" : 46.536388,
+      "longitude" : -84.363869
     },
 {
-      "country" : "Algeria",
-      "alpha2" : "DZ",
-      "alpha3" : "DZA",
-      "numeric" : 12,
-      "latitude" : 28,
-      "longitude" : 3
+      "country" : "Mexico",
+      "alpha2" : "Danieli Mexico",
+      "alpha3" : "Danieli",
+      "numeric" : 64040,
+      "latitude" : 25.672130,
+      "longitude" : -100.336360
     },
 {
-      "country" : "American Samoa",
+      "country" : "Danieli Workshop - Coraopolis",
       "alpha2" : "AS",
       "alpha3" : "ASM",
-      "numeric" : 16,
-      "latitude" : -14.3333,
-      "longitude" : -170
+      "numeric" : 2000 ,
+      "latitude" : 40.524300,
+      "longitude" : -80.171700
     },
 {
-      "country" : "Andorra",
-      "alpha2" : "AD",
-      "alpha3" : "AND",
-      "numeric" : 20,
-      "latitude" : 42.5,
-      "longitude" : 1.6
+      "country" : "Danieli Workshop - Ashland",
+      "alpha2" : "Ashland",
+      "alpha3" : "Danieli",
+      "numeric" : 155,
+      "latitude" : 38.489780,
+      "longitude" : -82.658432
     },
 {
-      "country" : "Angola",
-      "alpha2" : "AO",
-      "alpha3" : "AGO",
-      "numeric" : 24,
-      "latitude" : -12.5,
-      "longitude" : 18.5
+      "country" : "Danieli Do Brazil Ltda",
+      "alpha2" : "São Paulo",
+      "alpha3" : "Danieli",
+      "numeric" : 2289,
+      "latitude" : -23.575930,
+      "longitude" : -47.488220
     },
 {
-      "country" : "Anguilla",
-      "alpha2" : "AI",
-      "alpha3" : "AIA",
-      "numeric" : 660,
-      "latitude" : 18.25,
-      "longitude" : -63.1667
+      "country" : "Danieli Indonesia Representative Office",
+      "alpha2" : "Jakarta",
+      "alpha3" : "Danieli",
+      "numeric" : 12190,
+      "latitude" : -23.575930,
+      "longitude" : -47.488220
     },
 {
       "country" : "Antarctica",
       "alpha2" : "AQ",
       "alpha3" : "ATA",
       "numeric" : 10,
-      "latitude" : -90,
-      "longitude" : 0
+      "latitude" : -23.575930,
+      "longitude" : -47.488220
     },
 {
       "country" : "Antigua and Barbuda",
