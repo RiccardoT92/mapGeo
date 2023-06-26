@@ -1,16 +1,16 @@
 {
   "ref_country_codes" : [
 {
-      "country" : "Ontario",
-      "alpha2" : "Danieli Canada",
+      "country" : "Danieli Canada",
+      "alpha2" : "Ontario",
       "alpha3" : "Danieli",
       "numeric" : 275,
       "latitude" : 46.536388,
       "longitude" : -84.363869
     },
 {
-      "country" : "Mexico",
-      "alpha2" : "Danieli Mexico",
+      "country" : "Danieli Mexico",
+      "alpha2" : "Mexico",
       "alpha3" : "Danieli",
       "numeric" : 64040,
       "latitude" : 25.672130,
@@ -41,13 +41,136 @@
       "longitude" : -47.488220
     },
 {
-      "country" : "Danieli Indonesia Representative Office",
-      "alpha2" : "Jakarta",
+      "country" : "Danieli Workshop - Vietnam",
+      "alpha2" : "Vietnam",
       "alpha3" : "Danieli",
       "numeric" : 12190,
       "latitude" : 20.908660799510002, 
       "longitude" : 106.63331165598207
     }
 
+    {"country" : "Danieli Indonesia Representative Office",
+      "alpha2" : "Jakarta",
+      "alpha3" : "Danieli",
+      "numeric" : 155,
+      "latitude" : -6.228334613625112,
+      "longitude" : 106.80695234014227
+    },
+{
+      "country" : "Danieli Co., Ltd",
+      "alpha2" : "Rayong",
+      "alpha3" : "Danieli",
+      "numeric" : 2289,
+      "latitude" : 12.969215108979679, 
+      "longitude" : 101.22680446850677
+    },
+{
+      "country" : "Danieli Taiwan",
+      "alpha2" : "Taiwan",
+      "alpha3" : "Danieli",
+      "numeric" : 12190,
+      "latitude" : 22.61679886230873,  
+      "longitude" : 120.2934658966336
+    }
+
+
+{
+      "country" : "Danieli Metallurgical Equipment & Service (China) Co Ltd",
+      "alpha2" : " Changshu",
+      "alpha3" : "Danieli",
+      "numeric" : 275,
+      "latitude" : 31.686494393509665, 
+      "longitude" : 120.75678741025247
+    },
+{
+      "country" : "Danieli Korea",
+      "alpha2" : "Seoul",
+      "alpha3" : "Danieli",
+      "numeric" : 64040,
+      "latitude" : 37.56098878486092, 
+      "longitude" : 126.90859080334177
+    },
+{
+      "country" : "Danieli Engineering Japan Ltd",
+      "alpha2" : "Yokohama",
+      "alpha3" : "Danieli",
+      "numeric" : 2000 ,
+      "latitude" : 35.45462154611664,
+      "longitude" : 139.63190627011198
+    },
+{
+      "country" : "Danieli India Ltd",
+      "alpha2" : "Kolkata",
+      "alpha3" : "Danieli",
+      "numeric" : 155,
+      "latitude" : 22.579772286635073,
+      "longitude" : 88.43780980002417
+    },
+{
+      "country" : "Danieli India Limited",
+      "alpha2" : "Chennai",
+      "alpha3" : "Danieli",
+      "numeric" : 2289,
+      "latitude" : 13.093156485649121,
+      "longitude" : 80.16191585416702
+    },
+{
+      "country" : "Danieli Centro Combustion India Pvt Ltd",
+      "alpha2" : "Maharashtra",
+      "alpha3" : "Danieli",
+      "numeric" : 12190,
+      "latitude" : 18.563512660318885, 
+      "longitude" : 73.92067498307061
+    }
+
+    {"country" : "Danieli Service Center",
+      "alpha2" : "Abu Dhabi",
+      "alpha3" : "Danieli",
+      "numeric" : 155,
+      "latitude" : 24.4791653604694, 
+      "longitude" : 54.38306695434257
+    },
+{
+      "country" : "Industrial Beteiligung Services & Co LLC SA",
+      "alpha2" : "Kingdom of Saudi Arabia",
+      "alpha3" : "Danieli",
+      "numeric" : 2289,
+      "latitude" : 26.232772740043107,
+      "longitude" :  50.19662720864745 
+    },
+{
+      "country" : "Danieli Middle East & North Africa L.L.C - DAN-MENA",
+      "alpha2" : "New Cairo",
+      "alpha3" : "Danieli",
+      "numeric" : 12190,
+      "latitude" : 30.009560606035897, 
+      "longitude" : 31.428207390282346 
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
           ]
 }
