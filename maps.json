@@ -1,106 +1,124 @@
 {
-      "country" : "Uruguay",
-      "alpha2" : "UY",
-      "alpha3" : "URY",
-      "numeric" : 858,
-      "latitude" : -33,
-      "longitude" : -56
-    },
+  "ref_country_codes" : [
 {
-      "country" : "Uzbekistan",
-      "alpha2" : "UZ",
-      "alpha3" : "UZB",
-      "numeric" : 860,
+      "country" : "Albania",
+      "alpha2" : "AL",
+      "alpha3" : "ALB",
+      "numeric" : 8,
       "latitude" : 41,
-      "longitude" : 64
+      "longitude" : 20
     },
 {
-      "country" : "Vanuatu",
-      "alpha2" : "VU",
-      "alpha3" : "VUT",
-      "numeric" : 548,
-      "latitude" : -16,
-      "longitude" : 167
+      "country" : "Algeria",
+      "alpha2" : "DZ",
+      "alpha3" : "DZA",
+      "numeric" : 12,
+      "latitude" : 28,
+      "longitude" : 3
     },
 {
-      "country" : "Venezuela, Bolivarian Republic of",
-      "alpha2" : "VE",
-      "alpha3" : "VEN",
-      "numeric" : 862,
-      "latitude" : 8,
-      "longitude" : -66
+      "country" : "American Samoa",
+      "alpha2" : "AS",
+      "alpha3" : "ASM",
+      "numeric" : 16,
+      "latitude" : -14.3333,
+      "longitude" : -170
     },
 {
-      "country" : "Viet Nam",
-      "alpha2" : "VN",
-      "alpha3" : "VNM",
-      "numeric" : 704,
-      "latitude" : 16,
-      "longitude" : 106
+      "country" : "Andorra",
+      "alpha2" : "AD",
+      "alpha3" : "AND",
+      "numeric" : 20,
+      "latitude" : 42.5,
+      "longitude" : 1.6
     },
 {
-      "country" : "Virgin Islands, British",
-      "alpha2" : "VG",
-      "alpha3" : "VGB",
-      "numeric" : 92,
-      "latitude" : 18.5,
-      "longitude" : -64.5
+      "country" : "Angola",
+      "alpha2" : "AO",
+      "alpha3" : "AGO",
+      "numeric" : 24,
+      "latitude" : -12.5,
+      "longitude" : 18.5
     },
 {
-      "country" : "Virgin Islands, U.S.",
-      "alpha2" : "VI",
-      "alpha3" : "VIR",
-      "numeric" : 850,
-      "latitude" : 18.3333,
-      "longitude" : -64.8333
+      "country" : "Anguilla",
+      "alpha2" : "AI",
+      "alpha3" : "AIA",
+      "numeric" : 660,
+      "latitude" : 18.25,
+      "longitude" : -63.1667
     },
 {
-      "country" : "Wallis and Futuna",
-      "alpha2" : "WF",
-      "alpha3" : "WLF",
-      "numeric" : 876,
-      "latitude" : -13.3,
-      "longitude" : -176.2
+      "country" : "Antarctica",
+      "alpha2" : "AQ",
+      "alpha3" : "ATA",
+      "numeric" : 10,
+      "latitude" : -90,
+      "longitude" : 0
     },
 {
-      "country" : "Western Sahara",
-      "alpha2" : "EH",
-      "alpha3" : "ESH",
-      "numeric" : 732,
-      "latitude" : 24.5,
-      "longitude" : -13
+      "country" : "Antigua and Barbuda",
+      "alpha2" : "AG",
+      "alpha3" : "ATG",
+      "numeric" : 28,
+      "latitude" : 17.05,
+      "longitude" : -61.8
     },
 {
-      "country" : "Yemen",
-      "alpha2" : "YE",
-      "alpha3" : "YEM",
-      "numeric" : 887,
-      "latitude" : 15,
-      "longitude" : 48
+      "country" : "Argentina",
+      "alpha2" : "AR",
+      "alpha3" : "ARG",
+      "numeric" : 32,
+      "latitude" : -34,
+      "longitude" : -64
     },
 {
-      "country" : "Zambia",
-      "alpha2" : "ZM",
-      "alpha3" : "ZMB",
-      "numeric" : 894,
-      "latitude" : -15,
-      "longitude" : 30
+      "country" : "Armenia",
+      "alpha2" : "AM",
+      "alpha3" : "ARM",
+      "numeric" : 51,
+      "latitude" : 40,
+      "longitude" : 45
     },
 {
-      "country" : "Zimbabwe",
-      "alpha2" : "ZW",
-      "alpha3" : "ZWE",
-      "numeric" : 716,
-      "latitude" : -20,
-      "longitude" : 30
+      "country" : "Aruba",
+      "alpha2" : "AW",
+      "alpha3" : "ABW",
+      "numeric" : 533,
+      "latitude" : 12.5,
+      "longitude" : -69.9667
     },
 {
-      "country" : "Afghanistan",
-      "alpha2" : "AF",
-      "alpha3" : "AFG",
-      "numeric" : 4,
-      "latitude" : 33,
-      "longitude" : 65
+      "country" : "Australia",
+      "alpha2" : "AU",
+      "alpha3" : "AUS",
+      "numeric" : 36,
+      "latitude" : -27,
+      "longitude" : 133
+    },
+{
+      "country" : "Austria",
+      "alpha2" : "AT",
+      "alpha3" : "AUT",
+      "numeric" : 40,
+      "latitude" : 47.3333,
+      "longitude" : 13.3333
+    },
+{
+      "country" : "Azerbaijan",
+      "alpha2" : "AZ",
+      "alpha3" : "AZE",
+      "numeric" : 31,
+      "latitude" : 40.5,
+      "longitude" : 47.5
+    },
+{
+      "country" : "Bahamas",
+      "alpha2" : "BS",
+      "alpha3" : "BHS",
+      "numeric" : 44,
+      "latitude" : 24.25,
+      "longitude" : -76
     }
-  ]
+          ]
 }
