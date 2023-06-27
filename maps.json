@@ -250,7 +250,7 @@
       "alpha2" : "Oxfordshire",
       "alpha3" : "Danieli",
       "latitude" : 52.077712936854596, 
-      "longitude" :  -1.3390048915179218
+      "longitude" : -1.3390048915179218
     },
 {
       "country" : "Danieli UK Holding Limited",
@@ -265,7 +265,7 @@
       "alpha2" : "Smedjebacken",
       "alpha3" : "Danieli",
       "latitude" : 60.147147866960644, 
-      "longitude" :  15.384597497987595
+      "longitude" : 15.384597497987595
     },
 {
       "country" : "Sund Birsta AB",
@@ -279,14 +279,14 @@
       "alpha2" : "Buttrio",
       "alpha3" : "Danieli",
       "latitude" : 46.01047134898788,
-      "longitude" :13.326077710835895
+      "longitude" : 13.326077710835895
     },
 {
       "country" : "More Srl",
       "alpha2" : "Gemona Del Friuli",
       "alpha3" : "Danieli",
       "latitude" : 46.2734142258729,
-      "longitude" :  13.130725002360425
+      "longitude" : 13.130725002360425
     }
     ]
 }
