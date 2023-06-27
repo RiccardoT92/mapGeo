@@ -4,15 +4,13 @@
       "country" : "Danieli Canada",
       "alpha2" : "Ontario",
       "alpha3" : "Danieli",
-      "numeric" : 275,
-      "latitude" : 46.536388,
+       "latitude" : 46.536388,
       "longitude" : -84.363869
     },
 {
       "country" : "Danieli Mexico",
       "alpha2" : "Mexico",
       "alpha3" : "Danieli",
-      "numeric" : 64040,
       "latitude" : 25.672130,
       "longitude" : -100.336360
     },
@@ -20,7 +18,6 @@
       "country" : "Danieli Workshop - Coraopolis",
       "alpha2" : "Coraopolis",
       "alpha3" : "Danieli",
-      "numeric" : 2000 ,
       "latitude" : 40.524300,
       "longitude" : -80.171700
     },
@@ -28,7 +25,6 @@
       "country" : "Danieli Workshop - Ashland",
       "alpha2" : "Ashland",
       "alpha3" : "Danieli",
-      "numeric" : 155,
       "latitude" : 38.489780,
       "longitude" : -82.658432
     },
@@ -36,7 +32,6 @@
       "country" : "Danieli Do Brazil Ltda",
       "alpha2" : "São Paulo",
       "alpha3" : "Danieli",
-      "numeric" : 2289,
       "latitude" : -23.575930,
       "longitude" : -47.488220
     },
@@ -44,7 +39,6 @@
       "country" : "Danieli Workshop - Vietnam",
       "alpha2" : "Vietnam",
       "alpha3" : "Danieli",
-      "numeric" : 12190,
       "latitude" : 20.908660799510002, 
       "longitude" : 106.63331165598207
     },
@@ -52,7 +46,6 @@
     { "country" : "Danieli Indonesia Representative Office",
       "alpha2" : "Jakarta",
       "alpha3" : "Danieli",
-      "numeric" : 155,
       "latitude" : -6.228334613625112,
       "longitude" : 106.80695234014227
     },
@@ -60,7 +53,6 @@
       "country" : "Danieli Co., Ltd",
       "alpha2" : "Rayong",
       "alpha3" : "Danieli",
-      "numeric" : 2289,
       "latitude" : 12.969215108979679, 
       "longitude" : 101.22680446850677
     },
@@ -68,7 +60,6 @@
       "country" : "Danieli Taiwan",
       "alpha2" : "Taiwan",
       "alpha3" : "Danieli",
-      "numeric" : 12190,
       "latitude" : 22.61679886230873,  
       "longitude" : 120.2934658966336
     },
@@ -78,7 +69,6 @@
       "country" : "Danieli Metallurgical Equipment & Service (China) Co Ltd",
       "alpha2" : " Changshu",
       "alpha3" : "Danieli",
-      "numeric" : 275,
       "latitude" : 31.686494393509665, 
       "longitude" : 120.75678741025247
     },
@@ -86,7 +76,6 @@
       "country" : "Danieli Korea",
       "alpha2" : "Seoul",
       "alpha3" : "Danieli",
-      "numeric" : 64040,
       "latitude" : 37.56098878486092, 
       "longitude" : 126.90859080334177
     },
@@ -94,7 +83,6 @@
       "country" : "Danieli Engineering Japan Ltd",
       "alpha2" : "Yokohama",
       "alpha3" : "Danieli",
-      "numeric" : 2000 ,
       "latitude" : 35.45462154611664,
       "longitude" : 139.63190627011198
     },
@@ -102,7 +90,6 @@
       "country" : "Danieli India Ltd",
       "alpha2" : "Kolkata",
       "alpha3" : "Danieli",
-      "numeric" : 155,
       "latitude" : 22.579772286635073,
       "longitude" : 88.43780980002417
     },
@@ -110,7 +97,6 @@
       "country" : "Danieli India Limited",
       "alpha2" : "Chennai",
       "alpha3" : "Danieli",
-      "numeric" : 2289,
       "latitude" : 13.093156485649121,
       "longitude" : 80.16191585416702
     },
@@ -118,7 +104,6 @@
       "country" : "Danieli Centro Combustion India Pvt Ltd",
       "alpha2" : "Maharashtra",
       "alpha3" : "Danieli",
-      "numeric" : 12190,
       "latitude" : 18.563512660318885, 
       "longitude" : 73.92067498307061
     },
@@ -126,7 +111,6 @@
     { "country" : "Danieli Service Center",
       "alpha2" : "Abu Dhabi",
       "alpha3" : "Danieli",
-      "numeric" : 155,
       "latitude" : 24.4791653604694, 
       "longitude" : 54.38306695434257
     },
@@ -134,7 +118,6 @@
       "country" : "Industrial Beteiligung Services & Co LLC SA",
       "alpha2" : "Kingdom of Saudi Arabia",
       "alpha3" : "Danieli",
-      "numeric" : 2289,
       "latitude" : 26.232772740043107,
       "longitude" :  50.19662720864745 
     },
@@ -142,9 +125,168 @@
       "country" : "Danieli Middle East & North Africa L.L.C - DAN-MENA",
       "alpha2" : "New Cairo",
       "alpha3" : "Danieli",
-      "numeric" : 12190,
       "latitude" : 30.009560606035897, 
       "longitude" : 31.428207390282346 
     }   
-          ]
+         
+  
+  
+  {
+      "country" : "Danieli Türkiye",
+      "alpha2" : "Istanbul",
+      "alpha3" : "Danieli",
+      "latitude" : 40.89420075239374, 
+      "longitude" : 29.227574183653612
+    },
+{
+      "country" : "Danieli Heavy Machinery LLC",
+      "alpha2" : "Ukraine",
+      "alpha3" : "Danieli",
+      "latitude" : 48.47447264712271,
+      "longitude" : 35.04635172433301
+    },
+{
+      "country" : "Danieli Engineering Rom ",
+      "alpha2" : "Romania",
+      "alpha3" : "Danieli",
+      "latitude" : 46.75705112823308, 
+      "longitude" : 23.59452371271641
+    },
+{
+      "country" : "DWU Engineering Polska Sp Zoo",
+      "alpha2" : "Poland",
+      "alpha3" : "Danieli",
+      "latitude" : 51.11087997911044, 
+      "longitude" :  17.027940497559513
+    },
+{
+      "country" : "Danieli Czech Engineering",
+      "alpha2" : "Praha 2",
+      "alpha3" : "Danieli",
+      "latitude" : 50.07915134169896, 
+      "longitude" : 14.421390711007026
+    },
+{
+      "country" : "Danieli Engineering & Services GmbH",
+      "alpha2" : "Völkermarkt",
+      "alpha3" : "Danieli",
+      "latitude" : 46.67673917891086, 
+      "longitude" : 14.659860855041646
+    },
+
+    { "country" : "Danieli & C. Officine Meccaniche S.p.A.",
+      "alpha2" : "Buttrio",
+      "alpha3" : "Danieli",
+      "latitude" : 46.004750677177185, 
+      "longitude" : 13.339054597342898
+    },
+{
+      "country" : "Danieli Centro Cranes Spa",
+      "alpha2" : "Brescia",
+      "alpha3" : "Danieli",
+      "latitude" : 45.50746640691655, 
+      "longitude" : 10.389726854994239
+    },
+{
+      "country" : "Danieli Centro Combustion Spa Milan",
+      "alpha2" : "Milan",
+      "alpha3" : "Danieli",
+      "latitude" : 45.553786487912895,  
+      "longitude" :  9.247136370338891  
+    },
+
+
+{
+      "country" : "Danieli Centro Combustion Spa Genoa",
+      "alpha2" : "Genoa",
+      "alpha3" : "Danieli",
+      "latitude" : 44.404462226452104,
+      "longitude" : 8.948251026114797
+    },
+{
+      "country" : "Fata Spa Turin",
+      "alpha2" : "Turin",
+      "alpha3" : "Danieli",
+      "latitude" : 45.12019099979131,  
+      "longitude" : 7.554690814958515
+    },
+{
+      "country" : "Danieli Henschel Sas",
+      "alpha2" : "Méry",
+      "alpha3" : "Danieli",
+      "latitude" : 45.63955239577801, 
+      "longitude" : 5.919168575841059
+    },
+{
+      "country" : "Rotelec S.A.",
+      "alpha2" : "Bagnolet Cedex",
+      "alpha3" : "Danieli",
+      "latitude" : 48.86775374958799,
+      "longitude" : 2.415163797461956
+    },
+{
+      "country" : "Danieli Germany Gmbh",
+      "alpha2" : "Meinerzhagen",
+      "alpha3" : "Danieli",
+      "latitude" : 51.100954926856765, 
+      "longitude" : 7.67027195523043
+    },
+{
+      "country" : "Danieli Germany Gmbh",
+      "alpha2" : "Duisburg",
+      "alpha3" : "Danieli",
+      "latitude" : 51.442532730096985, 
+      "longitude" : 6.768668739902846 
+    },
+
+    { "country" : "Danieli Corus BV",
+      "alpha2" : "Velsen-Noord",
+      "alpha3" : "Danieli",
+      "latitude" : 52.47567894027751,  
+      "longitude" :  4.625692939949243
+    },
+{
+      "country" : "Innoval Technology Ltd",
+      "alpha2" : "Oxfordshire",
+      "alpha3" : "Danieli",
+      "latitude" : 52.077712936854596, 
+      "longitude" :  -1.3390048915179218
+    },
+{
+      "country" : "Danieli UK Holding Limited",
+      "alpha2" : "Rotherham",
+      "alpha3" : "Danieli",
+      "latitude" : 53.419731277633, 
+      "longitude" : -1.3861512246034613 
+    },   
+         
+  {
+      "country" : "Morgårdshammar AB",
+      "alpha2" : "Smedjebacken",
+      "alpha3" : "Danieli",
+      "latitude" : 60.147147866960644, 
+      "longitude" :  15.384597497987595
+    },
+{
+      "country" : "Sund Birsta AB",
+      "alpha2" : "Sundsvall",
+      "alpha3" : "Danieli",
+      "latitude" : 62.39480189669151, 
+      "longitude" : 17.30695043758027
+    },
+{
+      "country" : "Danieli Automation Spa",
+      "alpha2" : "Buttrio",
+      "alpha3" : "Danieli",
+      "latitude" : 46.01047134898788,
+      "longitude" :13.326077710835895
+    },
+{
+      "country" : "More Srl",
+      "alpha2" : "Gemona Del Friuli",
+      "alpha3" : "Danieli",
+      "latitude" : 46.2734142258729,
+      "longitude" :  13.130725002360425
+    }
+    ]
 }
